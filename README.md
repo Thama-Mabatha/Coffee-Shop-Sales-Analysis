@@ -60,6 +60,11 @@ Evening performance is lowest—introduce evening promotions or consider closing
 
 Lower Manhattan and Hell’s Kitchen perform better—analyze what drives their success (e.g., location, staffing, promotions).
 
+
+<img width="1424" height="537" alt="image" src="https://github.com/user-attachments/assets/f75ce039-0319-405e-8589-5209810345d6" />
+<img width="1266" height="543" alt="image" src="https://github.com/user-attachments/assets/844d8ef6-49c4-4399-b0e1-e5bb4e754ef6" />
+
+
 👤 Author
 
 Thama Mabatha
