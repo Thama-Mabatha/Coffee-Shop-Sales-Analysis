@@ -20,6 +20,22 @@ The analysis provides insights into:
 
 ---
 
+### 🖼️ Dashboard Preview
+<img width="1424" height="537" alt="image" src="https://github.com/user-attachments/assets/f75ce039-0319-405e-8589-5209810345d6" />
+<img width="1266" height="543" alt="image" src="https://github.com/user-attachments/assets/844d8ef6-49c4-4399-b0e1-e5bb4e754ef6" />
+
+## 📊 Power BI Dashboard
+The interactive Power BI dashboard includes:
+- **Key Metrics Cards:** Total Revenue, Total Sales Count, and Average Revenue per Sale  
+- **Revenue by Month and Store:** Monthly trends across Astoria, Hell’s Kitchen, and Lower Manhattan  
+- **Revenue by TimeBucket:** Donut chart showing Morning (54%), Afternoon (30%), and Evening (16%) contributions  
+- **Product Category Sales:** Bar chart showing Coffee, Tea, and Bakery as top-performing categories  
+- **Key Insights Panel:** Automatically updated text summary for stakeholder reporting  
+
+🔗 **View Dashboard Live:**<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7411213747672981504?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+---
+
 ## 🗂️ Repository Structure
 ├── 📄 FourthCoffee.sql # SQL queries used for sales aggregation and analysis
 ├── 📊 Sales presentation.pptx # Final presentation slides for management
@@ -52,21 +68,8 @@ The analysis provides insights into:
 
 ---
 
-## 📊 Power BI Dashboard
-The interactive Power BI dashboard includes:
-- **Key Metrics Cards:** Total Revenue, Total Sales Count, and Average Revenue per Sale  
-- **Revenue by Month and Store:** Monthly trends across Astoria, Hell’s Kitchen, and Lower Manhattan  
-- **Revenue by TimeBucket:** Donut chart showing Morning (54%), Afternoon (30%), and Evening (16%) contributions  
-- **Product Category Sales:** Bar chart showing Coffee, Tea, and Bakery as top-performing categories  
-- **Key Insights Panel:** Automatically updated text summary for stakeholder reporting  
 
-🔗 **View Dashboard Live:** [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/96a345bb-29e9-4fe1-8840-ff05c8236836/3a5b41a80755892b5650?experience=power-bi)
 
----
-
-### 🖼️ Dashboard Preview
-<img width="1424" height="537" alt="image" src="https://github.com/user-attachments/assets/f75ce039-0319-405e-8589-5209810345d6" />
-<img width="1266" height="543" alt="image" src="https://github.com/user-attachments/assets/844d8ef6-49c4-4399-b0e1-e5bb4e754ef6" />
 
 ---
 
