@@ -93,7 +93,7 @@ This project demonstrates  analytical thinking, business insight generation, and
 
 ## 👤 Author
 **Thama Mabatha**  
-💻 SQL, Excel & Power BI Enthusiast  
+💻 SQL, Excel & Power BI learner
 📅 November 2025  
 🔗 [Portfolio Website](https://iridescent-boba-f37f7f.netlify.app)
 
