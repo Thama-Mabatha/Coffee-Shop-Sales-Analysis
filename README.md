@@ -21,8 +21,7 @@ The analysis provides insights into:
 ---
 
 ### 🖼️ Dashboard Preview
-<img width="1424" height="537" alt="image" src="https://github.com/user-attachments/assets/f75ce039-0319-405e-8589-5209810345d6" />
-<img width="1266" height="543" alt="image" src="https://github.com/user-attachments/assets/844d8ef6-49c4-4399-b0e1-e5bb4e754ef6" />
+🔗 **View Dashboard Live:**<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7411213747672981504?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ## 📊 Power BI Dashboard
 The interactive Power BI dashboard includes:
@@ -32,7 +31,7 @@ The interactive Power BI dashboard includes:
 - **Product Category Sales:** Bar chart showing Coffee, Tea, and Bakery as top-performing categories  
 - **Key Insights Panel:** Automatically updated text summary for stakeholder reporting  
 
-🔗 **View Dashboard Live:**<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7411213747672981504?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 
 ---
 
